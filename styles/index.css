@@ -1,0 +1,32 @@
+main{}
+main h1{}
+main .main_content{}
+main .main_img{}
+main .main_img .product_image{}
+main .main_img .like_btn{}
+main .main_img .like_btn img{}
+main .right_content{}
+main .main_txt{}
+main .main_txt h2{}
+main .main_txt p{}
+main .item.product{}
+main .product_item{}
+main .product_item .product_image{}
+main .product_item .brand{}
+main .product_item .like_btn{}
+main .product_item .like_btn img{}
+main .product_item .product_name{}
+main .product_item .discount{}
+main .product_item .price{}
+section{}
+section h2{}
+section .more_btn{}
+section .item.taste{}
+section .taste_item{}
+section .taste_item .product_image{}
+section .taste_item .brand{}
+section .taste_item .like_btn{}
+section .taste_item .like_btn img{}
+section .taste_item .product_name{}
+section .taste_item .discount{}
+section .taste_item .price{}
